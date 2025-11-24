@@ -1,47 +1,66 @@
-# Hi, I'm Bohang (Louis) Tamela 👋
+# 👋 Hi, I’m Bohang (Louis) Tamela
 
-### IT Support Intern · Systems & Build Troubleshooter · Learner on the Rise
-
----
-
-## 💼 Current Role
-
-- **IT Support Intern at JumpCO** (Feb 2025 – present, Johannesburg, Gauteng)  
-- Providing **Windows & Ubuntu troubleshooting**, imaging laptops and keeping user systems healthy.  
-- Tackling **React/Vite build fixes** and using **Git/Jenkins** to unblock deployments.  
-- Pursuing **LPIC‑1 certification** and hands-on Linux skills.
-
-I handle around six support tickets each week for about 20 users. I’ve been recognized for boosting build success and cutting failures by more than half. Continuous improvement is my game—both for systems and myself.
+**IT Support Intern · Systems & Build Troubleshooter · Learning to Build the Web**
 
 ---
 
-## 🎯 Learning Journey
+### 💼 Current Role
 
-- Deepening **Linux fundamentals** and preparing for the LPIC‑1 exam.
-- Exploring **web basics** (HTML, CSS) and modern JavaScript tools like React and Vite.
-- Strengthening understanding of **DevOps pipelines** using Jenkins and Git.
-
----
-
-## 📌 Projects & Interests
-
-> I’m focused on real-world projects rather than demo code. As my portfolio grows, I’ll pin the most relevant repos here.
-
-- **Company Website Revamp:** I’m part of the team rebuilding a professional website at JumpCO. I contribute to testing, troubleshooting and content integration rather than heavy coding.
-- **Learning Repos:** Personal experiments to practise Linux commands, simple web layouts and build scripts will live here.
+- **IT Support Intern at JumpCO** — Johannesburg, South Africa  
+- Troubleshooting **Windows & Ubuntu systems**, fixing **build pipelines**, and helping improve the company’s **React/Vite website**.  
+- Learning how professional DevOps and support workflows connect—from helpdesk tickets to production deployments.
 
 ---
 
-## 🌐 Connect with me
+### 🧰 Tech & Tools I Use
 
-- **LinkedIn:** [linkedin.com/in/bohang-tamela](https://www.linkedin.com/in/bohang-tamela/)
+- **Operating Systems:** Windows 10/11, Ubuntu  
+- **Dev Tools:** VS Code, Git, GitHub, Jenkins  
+- **Web Stack (Learning):** HTML, CSS, JavaScript, React, Vite  
+- **Other:** Remote desktop tools, ticketing systems, networking fundamentals
 
 ---
 
-## 💡 Personal ethos
+### 🎓 Learning & Certifications
 
-- **Real skills over hype.** I’d rather fix a tricky build or automate a task than chase buzzwords.
-- **Honesty about progress.** I’m not a seasoned developer yet, but I’m intentional about growing each day.
-- **Team player.** Whether imaging a laptop or resolving a build issue, my goal is to unblock others and keep work flowing smoothly.
+- **LPIC‑1 (Linux Professional Institute Certification)** – in progress  
+- **Linux Command Line & Systemd labs** – practising daily  
+- **Web development basics** – exploring React component structures  
+- **DevOps awareness** – Jenkins, pipelines, and build logs
 
-Check back to see how my journey unfolds. This profile will evolve as I do.
+---
+
+ ### 🚧 Projects & Repos
+
+> Pinned repositories coming soon—work and learning in progress.
+
+- **company-website-revamp** – website testing, bug tracking, content validation  
+- **linux-notes-and-commands** – LPIC‑1 prep notes and troubleshooting logs  
+- **build-fix-playground** – experiments with React/Vite build issues
+
+---
+
+### 🧐 How I Like to Work
+
+- I enjoy solving **real problems**, not just “tutorial” ones.  
+- I document every fix so others don’t have to repeat my mistakes.  
+- I prefer clarity and structure over flash—I like things that *work*.
+
+---
+
+### 🌲 Outside of Work
+
+- Slowly becoming *that* Linux person in my team.  
+- I like testing systems in virtual machines before they break in real life.  
+- Always hunting for free, high‑quality learning resources that respect my time.
+
+---
+
+### 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/bohang-tamela)  
+- GitHub: [louis27-Tamela](https://github.com/louis27-Tamela)
+
+---
+
+📈 *This profile evolves as I do—check back later for progress updates.*
