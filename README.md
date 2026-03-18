@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bohang (Louis) Tamela
 
-**IT Support Intern · Systems & Build Troubleshooter · Learning to Build the Web**
+**IT Support · Systems & Build Troubleshooter · Learning to Build the Web**
 
 ---
 
